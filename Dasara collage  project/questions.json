@@ -1,0 +1,102 @@
+[
+  {
+    "question": "Which semiconductor device is used as a fast switching device?",
+    "choices": [
+      "Diode",
+      "Transistor",
+      "SCR",
+      "MOSFET"
+    ],
+    "correct_answer": "MOSFET"
+  },
+  {
+    "question": "In digital electronics, what does 'SR' in SR flip-flop stand for?",
+    "choices": [
+      "Set-Reset",
+      "Shift Register",
+      "Single Register",
+      "Source Register"
+    ],
+    "correct_answer": "Set-Reset"
+  },
+  {
+    "question": "The unit of capacitance is:",
+    "choices": [
+      "Ohm",
+      "Henry",
+      "Farad",
+      "Tesla"
+    ],
+    "correct_answer": "Farad"
+  },
+  {
+    "question": "Which modulation is used in TV broadcasting?",
+    "choices": [
+      "AM for audio, FM for video",
+      "FM for audio, AM for video",
+      "Both AM for audio and video",
+      "Both FM for audio and video"
+    ],
+    "correct_answer": "FM for audio, AM for video"
+  },
+  {
+    "question": "What is the function of a rectifier?",
+    "choices": [
+      "Convert AC to DC",
+      "Convert DC to AC",
+      "Increase frequency",
+      "Decrease voltage"
+    ],
+    "correct_answer": "Convert AC to DC"
+  },
+  {
+    "question": "Nyquist theorem is related to:",
+    "choices": [
+      "Sampling",
+      "Amplification",
+      "Modulation",
+      "Demodulation"
+    ],
+    "correct_answer": "Sampling"
+  },
+  {
+    "question": "Which antenna is commonly used in mobile communication?",
+    "choices": [
+      "Parabolic",
+      "Monopole",
+      "Horn",
+      "Loop"
+    ],
+    "correct_answer": "Monopole"
+  },
+  {
+    "question": "Which logic gate is known as a 'Universal Gate'?",
+    "choices": [
+      "AND",
+      "OR",
+      "NAND",
+      "XOR"
+    ],
+    "correct_answer": "NAND"
+  },
+  {
+    "question": "In a microprocessor, ALU stands for:",
+    "choices": [
+      "Arithmetic Logic Unit",
+      "Application Level Unit",
+      "Advanced Logic Unit",
+      "Array Logic Utility"
+    ],
+    "correct_answer": "Arithmetic Logic Unit"
+  },
+  {
+    "question": "Which of the following has the highest data rate?",
+    "choices": [
+      "Bluetooth",
+      "Wi-Fi",
+      "NFC",
+      "Zigbee"
+    ],
+    "correct_answer": "Wi-Fi"
+  }
+]
